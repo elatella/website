@@ -43,6 +43,7 @@ Die Trainings kombinieren theoretische Inputs mit praxisnahen Hands-on Labs.
 
 
   {{<escaped-link href="https://acend.ch/trainings/kubernetes/" text="Container & Kubernetes">}}
+
 * ##### 2 Tage
 
   ### Container & OpenShift
